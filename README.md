@@ -2,9 +2,12 @@
 SPA that allows user to manipulate an image using scrollbars that manipulate CSS variables
 
 ## Screenshots
-!["screenshot"](/preview1.png) Original 
-!["screenshot"](/preview2.png) Blurred
-!["screenshot"](/preview3.png) I neec more padding, and new colors
+Original 
+!["screenshot"](/preview1.png) 
+Blurred
+!["screenshot"](/preview2.png) 
+I need more padding, and new colours.
+!["screenshot"](/preview3.png) 
 
 ### Instructions
 
