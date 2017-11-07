@@ -1,5 +1,5 @@
 # PhotoEditor
-SPA that allows user to manipulate an image using scrollbars that manipulate CSS variables
+SPA that allows user to manipulate an image using scrollbars that manipulate CSS variables. The purpose of this simple app was to play around with CSS variables. 
 
 ## Screenshots
 Original 
